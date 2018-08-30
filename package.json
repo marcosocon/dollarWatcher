@@ -1,0 +1,14 @@
+{
+  "name": "dollarwatcher",
+  "version": "1.0.0",
+  "description": "A watcher for the dollar value in Argentina which play sounds depending on the variation of the value of the US dollar.",
+  "main": "dollarWatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Ocon (oconmarcos97@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "play-sound": "^1.1.2"
+  }
+}
